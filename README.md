@@ -3,7 +3,7 @@
 ## Carpetas
   1. **assets:** contiene 3 carpetas:
       - docs: contiene archivos incluídos en README (encuestas, anexos, sketch).
-      -icons: contiene íconos en diferentes formatos a tu utilizar en el proyecto.
+      - icons: contiene íconos en diferentes formatos a tu utilizar en el proyecto.
       - images: contiene imágenes incluídas en el proyecto.
 
   2. **css:** contiene un archivo principal:
